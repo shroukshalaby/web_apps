@@ -1,0 +1,34 @@
+.home
+{
+    background-image: url("../images/315621d5d3c8d97.jpg");
+    background-size: 100% 100%;
+    height: 660px;
+}
+.info
+{
+    
+    width: 50%;
+    margin: auto;
+    text-align: center;
+    padding-top: 20%;
+   
+}
+.info h1
+{
+    color:mediumvioletred;
+}
+.info a
+{
+    text-decoration: none;
+    color: green;
+    font-size: 30px
+}
+.info i
+{
+    color: red;
+    padding-right: 10px
+}
+.info a:hover
+{
+    color: orange
+}
